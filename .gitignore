@@ -18,6 +18,21 @@
 .env.test.local
 .env.production.local
 
+#altro
+/Button
+/ButtonInput
+/ButtonTask
+/Card
+/Footer
+/Header
+/Form
+/Input
+/Layout
+/ListaImpegni
+/Main
+/Task
+/Todo
+
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*

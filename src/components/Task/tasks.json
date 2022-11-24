@@ -1,0 +1,25 @@
+{
+    "impegni": 
+        [
+            {
+                "id": 1,
+                "testo": "Studiare",
+                "buttonTitle": "elimina"
+            },
+            {
+                "id": 2,
+                "testo": "Fare la spesa",
+                "buttonTitle": "elimina"
+            },
+            {
+                "id": 4,
+                "testo": "Andare in montagna",
+                "buttonTitle": "elimina"
+            },
+            {
+                "id": 5,
+                "testo": "Fare un riposino",
+                "buttonTitle": "elimina"
+            }
+        ]
+}
